@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Archive - João Martins
+title: Archive
 ---
 
 <section>
