@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About - João Martins
 ---
 
-Something about me.
+Progamação é a minha vida...
