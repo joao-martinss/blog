@@ -4,6 +4,6 @@ layout: default
 
 <article>
   <h2>{{ page.title }}</h2>
-  <i datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</i> <hr>
+  <i datetime="{{ page.date | date_to_xmlschema }}" class="by-line">Date: {{ page.date | date_to_string }}</i> 
   {{ content }} 
 </article>
